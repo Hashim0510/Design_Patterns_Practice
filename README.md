@@ -1,0 +1,2 @@
+# scaler_backend_dev_2
+SOLID PRINCIPLES AND DESIGN PATTERNS
